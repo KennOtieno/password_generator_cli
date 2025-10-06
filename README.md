@@ -1,6 +1,6 @@
-# firstpass
+# Password Generator CLI
 
-password generator CLI
+A CLI password generator
 
 ## Installation
 
