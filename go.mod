@@ -1,4 +1,4 @@
-module github.com/munene-m/firstpass
+module github.com/KennOtieno/firstpass
 
 go 1.22
 

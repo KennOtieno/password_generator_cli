@@ -5,8 +5,8 @@ password generator CLI
 ## Installation
 
 ```sh
-git clone https://github.com/munene-m/firstpass.git`
-cd firstpass
+git clone https://github.com/KennOtieno/password_generator_cli.git`
+cd password_generator_cli
 make build
 ```
 

@@ -6,7 +6,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/munene-m/firstpass/internal/utils"
+	"github.com/KennOtieno/firstpass/internal/utils"
 )
 
 func main() {
